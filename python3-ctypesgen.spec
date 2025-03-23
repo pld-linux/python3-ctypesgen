@@ -20,6 +20,7 @@ BuildRequires:	python3 >= 1:3.2
 BuildRequires:	python3-modules >= 1:3.2
 BuildRequires:	python3-setuptools
 BuildRequires:	python3-setuptools_scm
+BuildRequires:	python3-toml
 BuildRequires:	python3-wheel
 %if %{with tests}
 BuildRequires:	python3-pytest
